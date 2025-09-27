@@ -26,10 +26,9 @@ export function Navbar() {
           </NavigationMenuList>
         </NavigationMenu>
         <div className="flex items-center gap-4">
-          <a className="text-sm font-medium text-muted-foreground transition-colors hover:text-foreground" href="#login">
-            Log in
-          </a>
-          <Button>Get started with ExpenAI</Button>
+          <Button size="sm" className="px-4">
+            Join the waitlist
+          </Button>
         </div>
       </nav>
     </header>

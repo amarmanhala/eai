@@ -14,7 +14,7 @@ export function Hero() {
         Every spend and subscription in one calm calendar. Meet the AI that spots the patterns and keeps your cash flow steady.
       </p>
       <Button size="lg">
-        Get started with ExpenAI
+        Join the waitlist
       </Button>
     </section>
   )
